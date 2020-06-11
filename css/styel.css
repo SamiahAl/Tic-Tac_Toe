@@ -1,0 +1,62 @@
+h1{
+    margin: 40px;
+    padding: 10px;
+    background-color: lightpink;
+    text-align: center;
+
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://blog.sklambert.com/wp-content/uploads/2012/09/bg.png')
+}
+.continer{
+  display: flex;
+  /*height: 300px;
+  width: 300px;
+  align-content: center;
+  justify-content: center;
+  margin: 50px; */
+  align-items: center;
+  min-height: 80px;
+  
+}
+.continer div{
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    justify-content: center;
+}
+
+*{
+    border: 1px solid black;
+    align-content: center;
+    justify-content: center;
+}
+.sequare{
+    height: 20px;
+    width: 10px;
+  /* background-color: gray;*/
+    background-color:  #a6a6a6;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    color: hotpink;
+   font-size: 4rem;
+   padding-top: 40px;
+    
+}
+
+
+/*.btn1{
+    margin: 50px;
+    padding: 10px;
+    background-color: indigo;
+    align-content: center;
+   color: lightpink;
+  
+
+} 
+*/
