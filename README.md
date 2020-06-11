@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 9130c9c93179fafb57e3112b2617b3f3bf640043
 # tic-tac-toe
 ## About tic-tac-toe
 Game for two players , X and O , take turn marking the spaces in a 3X3 grid . The player who succeeded in placing three of their marks in horizontal,vertical or diagonal row is winner.
